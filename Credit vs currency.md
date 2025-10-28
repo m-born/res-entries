@@ -1,4 +1,3 @@
-# Credit vs currency
 credit currency theory michiel-de-jong
 - --
 Theories on credit vs currency
