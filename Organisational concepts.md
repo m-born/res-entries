@@ -1,4 +1,3 @@
-Organisational concepts
 organising
 - --
 Walled gardens — proprietary models, cannot interact with one another
