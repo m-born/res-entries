@@ -1,3 +1,3 @@
-#ur-not-here
+#u-r-not-here
 - --
-Nothing of what follows is to be taken as anything other than fiction ‒ pure, free and total invention absent all bearing upon life.
+Everything that follows is to be taken as free, total and pure invention absent all bearing upon life.
