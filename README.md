@@ -1,3 +1,3 @@
 #tags
 - --
-G'day
+BODY_TEXT
