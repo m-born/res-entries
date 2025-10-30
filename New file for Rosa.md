@@ -1,4 +1,4 @@
-tag-1 tag-2
+#tag-1 #tag-2
 - --
 Here's new text
 
