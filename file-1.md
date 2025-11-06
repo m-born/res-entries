@@ -1,7 +1,5 @@
 #u-r-here-now #hide-readme
 - --
-You are here now.
+You are here now. [[README|Ugh. Get me out of "here."]]
 
-[[README|Ugh. Get me out of "here."]]
-
-Or … maybe try [[file-2]]?
+Or maybe … try [[file-2]]?
