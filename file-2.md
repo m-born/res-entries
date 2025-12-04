@@ -1,5 +1,5 @@
 #now-u-r-here #hide-readme
 - --
-This must be "there." Is it?
+This must be "there."
 
-[[README|I want back to start.]]
+I don't care. I want [[README|back to start.]]
