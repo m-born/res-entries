@@ -1,5 +1,5 @@
 #show-file-2
 - --
-Now that you're here already, how about a look at [[file-2]], eh?
+Excellent move. Now, once you're here already, how about taking a look at [[file-2]], eh?
 
-Ugh … [[README|just get me out of here.]]
+Ugh, thanks but just [[README|get me out of here.]]
