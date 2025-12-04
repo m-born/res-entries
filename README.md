@@ -1,4 +1,4 @@
-#u-r-not-here #hide-file-1 #hide-file-2
+
 - --
 Everything that follows is to be taken as free, pure and total invention, absent all bearing upon life.
 
