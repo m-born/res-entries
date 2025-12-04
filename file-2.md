@@ -1,4 +1,4 @@
-#now-u-r-there #hide-readme
+#show-file-1
 - --
 This must be "there."
 
