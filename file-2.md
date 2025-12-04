@@ -1,8 +1,7 @@
 #show-file-1 #show-dark
 - --
-This must be "there."
+Mh, this must be "there" then …?
 
-I don't care. I want [[README|home]].
+I don't care, I want [[README|home]].
 
-What's that [[dark|dark corner]] over there …
-
+Wait what's that [[dark|dark corner]] there …
