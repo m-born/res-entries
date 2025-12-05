@@ -1,3 +1,3 @@
-[[the-brown-room]] [[bed]] [[clock]] [[spaghetti]]
+[[the-brown-room]] [[spaghetti]]
 - --
 Eww it's moldy …

@@ -1,3 +1,3 @@
-[[the-brown-room]] [[bed]] [[clock]] [[spaghetti]]
+[[the-brown-room]] [[clock]]
 - --
 Tic toc
