@@ -1,3 +1,3 @@
-#show-bed #show-clock
+#show-room #show-bed #show-clock
 - --
 Eww it's moldy …
