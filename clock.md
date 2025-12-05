@@ -1,3 +1,3 @@
-[[the-brown-room]] [[clock]]
+[[the-brown-room]]
 - --
 Tic toc
