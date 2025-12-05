@@ -1,3 +1,3 @@
-#show-bed #show-spaghetti
+#show-room #show-bed #show-clock #show-spaghetti
 - --
 Tic toc
