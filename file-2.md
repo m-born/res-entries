@@ -1,4 +1,4 @@
-#show-the-archive #show-file-1 #show-dark-corner
+[[the-archive]] [[file-1]] [[dark-corner]]
 - --
 Mh, this must be "there" then …?
 
