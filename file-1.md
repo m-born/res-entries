@@ -2,4 +2,4 @@
 - --
 Well hi there. Now, once you're here already, how about a look at [[file-2]], eh?
 
-Ugh. Thanks but just get me [[README|out]] of here.
+Thanks but just get me out of here. Ugh … was it [[README|this]] or [[room|that]] door now …?
